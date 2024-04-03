@@ -31,4 +31,4 @@ This project is a group project for the Object-Oriented Programming course of So
 1. Clone the repository to your local machine:
 
 ```bash
-https://github.com/Kantisaranucheep/Audify_3.git
+https://github.com/TrizzlyBare/Audify.git
