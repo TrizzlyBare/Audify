@@ -1,0 +1,17 @@
+{
+    "playlists": [
+        {
+            "name": "Liked Songs",
+            "songs": [
+            ]
+        },
+        {
+            "name": "playlist1",
+            "songs": [
+                {
+                    "filename": "C:/Users/hp/Downloads/If I could be a constellation.mp3"
+                }
+            ]
+        }
+    ]
+}
